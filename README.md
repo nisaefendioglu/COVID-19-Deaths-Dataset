@@ -9,7 +9,7 @@ all_weekly_excess_deaths.csv collates detailed weekly breakdowns from official s
 
 ![aa](https://user-images.githubusercontent.com/48391281/120850788-94ed5680-c580-11eb-8acb-a64f75bcd7c8.png)
 ![as](https://user-images.githubusercontent.com/48391281/120850799-99b20a80-c580-11eb-8614-b593b4716d2f.png)
-![as](https://user-images.githubusercontent.com/48391281/120850811-9dde2800-c580-11eb-82b3-623c1520d17b.png)
+![ada](https://user-images.githubusercontent.com/48391281/120850844-a9c9ea00-c580-11eb-8b35-d0ab31b0aaf4.png)
 
 
 
